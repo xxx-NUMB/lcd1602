@@ -1,0 +1,21 @@
+{
+    "name": "LCD1602",
+    "version": "0.0.1",
+    "description": "LCD1602液晶显示屏",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "LCD1602.ts",
+        "_locales/zh/LCD1602-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ]
+}

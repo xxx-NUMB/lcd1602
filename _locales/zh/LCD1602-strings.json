@@ -7,6 +7,6 @@
 	"LCD1602.i2cLcdOff|block": "关闭显示",
 	"LCD1602.i2cLcdClear|block": "清除显示",
 	"LCD1602.i2cLcdBacklightOn|block": "打开背光",
-	"LCD1602.i2cLcdBacklightOff|block": "关闭背光",
+	"LCD1602.i2cLcdBacklightOff|block": "关闭背光"
 
 }
